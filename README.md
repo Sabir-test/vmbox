@@ -1,6 +1,6 @@
 # vmbox
 
-VM management repo for the KDE Neon dev VM (VM 200, Proxmox guest).
+Virtual Machines management repo.  
 
 This is the single place for everything related to operating, configuring, and
 reproducing this virtual machine: AI agent workflows, app setup scripts,
