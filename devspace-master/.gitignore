@@ -1,0 +1,7 @@
+.bash_history
+.ssh/id_dev_ed25519.pub
+.gitignore
+*.ssh/known_hosts
+*.ssh/id_dev_ed25519
+projects/**
+*.local/**
